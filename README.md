@@ -163,34 +163,17 @@ Credits:
 [**Better Lyrics**](https://better-lyrics.boidu.dev) – for beautiful time-synced lyrics with word-by-word highlighting, and seamless YouTube Music integration.
 
 [**SimpMusic Lyrics**](https://github.com/maxrave-dev/SimpMusic) – for providing lyrics data through the SimpMusic Lyrics API.
+�
 
-[**metroserver**](https://github.com/MetrolistGroup/metroserver) – for providing us with the listen together implementation.
-
-[**MusicRecognizer**](https://github.com/aleksey-saenko/MusicRecognizer) – for the music recognition feature implementation and Shazam API integration.
-
+Acknowledgements
+SimpMusic – for the Lyrics API.
+metroserver – for providing the listen together implementation.
+MusicRecognizer – for the music recognition feature and Shazam API integration.
 The open-source community for tools, libraries, and APIs that make this project possible.
+Thank you to all the amazing developers who made this project possible!
+�
 
-<sub>Thank you to all the amazing developers who made this project possible!</sub>
+�
 
-</div>
-
-<div align="center">
-<h1>Thanks to all contributors</h1>
-
-<a href = "https://github.com/MetrolistGroup/Metrolist/graphs/contributors">
-<img src = "https://contrib.rocks/image?repo=MetrolistGroup/Metrolist" width="600"/>
-</a>
-
-</div>
-
-<div align="center">
-<h1>Disclaimer</h1>
-</div>
-
-This project and its contents are not affiliated with, funded, authorized, endorsed by, or in any way associated with YouTube, Google LLC, Metrolist Group LLC or any of its affiliates and subsidiaries.
-
-Any trademark, service mark, trade name, or other intellectual property rights used in this project are owned by the respective owners.
-
-**Made with ❤️ by [Mo Agamy](https://github.com/mostafaalagamy)**
-
-**This project stands with Palestine 🇵🇸**
+Made with ❤️ by ujjwal
+🦁 Lion's Roar
